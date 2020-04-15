@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SnowballDamage">
+    <output-path>$PROJECT_DIR$/out/artifacts/SnowballDamage</output-path>
+    <root id="archive" name="SnowballDamage.jar">
+      <element id="module-output" name="SnowBallDamage" />
+    </root>
+  </artifact>
+</component>

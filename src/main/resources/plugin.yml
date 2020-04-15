@@ -1,0 +1,5 @@
+name: SnowballDamage
+description: This plugin adds damage from snowballs!
+version: 1.0
+api-version: 1.15
+main: pl.bullcube.apisek12.snowballdamage.Main
